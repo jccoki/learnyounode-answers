@@ -1,0 +1,12 @@
+{
+  "name": "learnyounode-answers",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bl": "~0.9.4",
+    "through2-map": "~1.4.0"
+  }
+}
